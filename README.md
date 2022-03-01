@@ -26,5 +26,3 @@ The primary analysis steps include:
 4.	Analysis genes under convergent evolution in terms of mating system transition
 5.	Identifying genes related to the selfing syndrome
 6.	Gene Ontology (GO) analysis on identified selfing syndrome genes to verify functions.
-
-The whole time needed for the bioinformatic analyses will be approximately 3-5 days, depending on how fluent in R programming the students are. The rest of the time will be devoted to reading related articles and writing the project report.
